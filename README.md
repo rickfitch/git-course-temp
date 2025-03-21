@@ -1,4 +1,4 @@
-# gitcourse
+# git-course
 
 Located in ~/projects/gitcourse/git-course-temp
 
