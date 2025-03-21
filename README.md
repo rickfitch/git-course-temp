@@ -11,3 +11,4 @@ git terms:
   git checkout <"branch name">
   git branch -d <"branch name">
   git merge <"branch name">
+# get_super_lotto
