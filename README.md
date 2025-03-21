@@ -7,5 +7,5 @@ git terms:
   git branch --list
   git branch  <"new branch">
   git branch -r # remote branches
-  git commit, log, status push, pull 
+  git commit, log, status push, pull
   git checkout <"branch name">
