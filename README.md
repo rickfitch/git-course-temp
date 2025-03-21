@@ -9,3 +9,5 @@ git terms:
   git branch -r # remote branches
   git commit, log, status push, pull
   git checkout <"branch name">
+  git branch -d <"branch name">
+  git merge <"branch name">
